@@ -1,6 +1,9 @@
 # DNS ENUM
+import sys
 import  requests
-host_name = input("Enter Host Name: ")
+
+#host_name = input("Enter Host Name: ")
+host_name = sys.argv[1]
 sub_domains = open("domains.txt","r").read().split("\n")
 
 for sub in sub_domains:
