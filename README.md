@@ -2,8 +2,11 @@
 
 This is a basic sub-domain enumurator.
 
-## Usage: 
+### Usage: 
 
 ```
 python ./main.py [domain]
 ```
+
+### TODO : 
+	1) Add multithreading to it.
