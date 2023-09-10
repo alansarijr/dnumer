@@ -9,4 +9,4 @@ python ./main.py [domain]
 ```
 
 ### TODO : 
-	1) Add multithreading to it.
+1) Add multithreading to it.
